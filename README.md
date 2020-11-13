@@ -1,1 +1,1 @@
-# FlappyBirdClone - Fart Shuttle 
+# FlappyBirdClone - Farty Shuttle 
